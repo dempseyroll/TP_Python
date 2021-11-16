@@ -8,7 +8,6 @@ import math
 def cargarListas(lista, listaIzq, listaMedio, listaDer, posicionesIzq , posicionesMedio, posicionesDer):
     #elige una palabra de la lista y la carga en las 3 listas
     # y les inventa una posicion para que aparezca en la columna correspondiente
-    sarasa
     pass
 
 
